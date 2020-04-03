@@ -1,0 +1,5 @@
+db.pets.insert({name: "Dolly", species: "Peixe"})
+db.pets.insert({name: "Kilha", species: "Gato"})
+db.pets.insert({name: "Mike", species: "Cachorro"})
+db.pets.insert({name: "Sally", species: "Cachorro"})
+db.pets.insert({name: "Chuck", species: "Gato"})
